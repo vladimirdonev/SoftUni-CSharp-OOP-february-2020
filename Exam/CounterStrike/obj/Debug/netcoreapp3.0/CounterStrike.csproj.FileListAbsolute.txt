@@ -1,0 +1,13 @@
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\borim\source\repos\Fundamentals new\C# OOP\Exam\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
